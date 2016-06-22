@@ -1,4 +1,4 @@
-# Jarvis-Lite-Issues
+# Jarvis Lite Issues
 This is a public issue-tracking repository for bugs and confirmed features related to Jarvis Lite.
 
 To download Jarvis Lite, please visit the [ACW Technologies website](http://acwtechnologies.co.uk/software/jarvis-lite) directly.

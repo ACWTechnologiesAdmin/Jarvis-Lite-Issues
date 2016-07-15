@@ -1,7 +1,11 @@
 # Jarvis Lite Issues
 This is a public issue-tracking repository for bugs and confirmed features related to Jarvis Lite.
 
+### View, add and comment on issues [here](https://github.com/ACWTechnologiesAdmin/Jarvis-Lite-Issues/issues), following the rules below.
+
 To download Jarvis Lite, please visit the [ACW Technologies website](http://acwtechnologies.co.uk/software/jarvis-lite) directly.
+
+<hr>
 
 ### Important:
 
@@ -10,9 +14,11 @@ If you find a potential exploit or vulnerability, please exercise reasonable dis
 1. Privately [contact ACW Technologies staff](mailto:info@acwtechnologies.co.uk?subject=JL%20important%20security%20vulnerability) about the issue.
 2. **Do not** publicly disclose the issue immediately (give ACW Technologies staff adequate time to respond to and address your inquiry before you disclose the vulnerability publicly).
 
+<hr>
+
 ## Submitting
 
-Issues can be [submitted](https://github.com/ACWTechnologiesAdmin/Jarvis-Lite-Issues/issues/new) at the [issue tracker](https://github.com/ACWTechnologiesAdmin/Jarvis-Lite-Issues/issues).
+Issues can be submitted at the [issue tracker](https://github.com/ACWTechnologiesAdmin/Jarvis-Lite-Issues/issues) when the following rules are followed.
 
 ### Do:
 
@@ -29,6 +35,8 @@ Issues can be [submitted](https://github.com/ACWTechnologiesAdmin/Jarvis-Lite-Is
 * Re-create an issue you feel unjustly closed
 * Add comments such as :+1:, +1 or "I like this idea"
 * Create disrespectful or inflammatory comments
+
+<hr>
 
 ## Formatting
 

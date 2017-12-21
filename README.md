@@ -1,9 +1,12 @@
 # Jarvis Lite Issues
 This is a public issue-tracking repository for bugs and confirmed features related to Jarvis Lite.
 
-### View, add and comment on issues [here](https://github.com/ACWTechnologiesAdmin/Jarvis-Lite-Issues/issues), following the rules below.
+**Discontinued: Jarvis Lite will no longer recieve new updates. But don't worry! The current version will remain available and continue to work for free. As a result, this issue tracker will no longer be used.**
 
 To download Jarvis Lite, please visit the [ACW Technologies website](http://acwtechnologies.co.uk/software/jarvis-lite) directly.
+
+<!--
+### View, add and comment on issues [here](https://github.com/ACWTechnologiesAdmin/Jarvis-Lite-Issues/issues), following the rules below.
 
 <hr>
 
@@ -65,3 +68,4 @@ Try to separate your description into three different sections, if possible:
 3. **Miscellaneous information**
 
     Information that doesn't necessarily fit into any other sections. Common examples are attachments, images, or disclaimers.
+-->
